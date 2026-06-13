@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahil\\Documents\\Codex\\uds_lib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F31D3E5E-182C-455E-8801-1A050AED3671}|uds_lib\\uds_lib.csproj|c:\\users\\sahil\\documents\\codex\\uds_lib\\uds_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31D3E5E-182C-455E-8801-1A050AED3671}|uds_lib\\uds_lib.csproj|solutionrelative:uds_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Documents\\Codex\\uds_lib\\uds_lib\\Class1.cs",
+              "RelativeDocumentMoniker": "uds_lib\\Class1.cs",
+              "ToolTip": "C:\\Users\\sahil\\Documents\\Codex\\uds_lib\\uds_lib\\Class1.cs",
+              "RelativeToolTip": "uds_lib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:31:18.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

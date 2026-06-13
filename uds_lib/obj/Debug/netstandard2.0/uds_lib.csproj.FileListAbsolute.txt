@@ -1,0 +1,10 @@
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\bin\Debug\netstandard2.0\uds_lib.deps.json
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\bin\Debug\netstandard2.0\uds_lib.dll
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\bin\Debug\netstandard2.0\uds_lib.pdb
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\obj\Debug\netstandard2.0\uds_lib.csproj.AssemblyReference.cache
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\obj\Debug\netstandard2.0\uds_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\obj\Debug\netstandard2.0\uds_lib.AssemblyInfoInputs.cache
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\obj\Debug\netstandard2.0\uds_lib.AssemblyInfo.cs
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\obj\Debug\netstandard2.0\uds_lib.csproj.CoreCompileInputs.cache
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\obj\Debug\netstandard2.0\uds_lib.dll
+C:\Users\sahil\Documents\Codex\uds_lib\uds_lib\obj\Debug\netstandard2.0\uds_lib.pdb
